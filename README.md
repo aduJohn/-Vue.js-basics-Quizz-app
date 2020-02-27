@@ -1,4 +1,4 @@
-# Flask - blog website
+# Quiz app
 
 ___
 ## Table of contents
