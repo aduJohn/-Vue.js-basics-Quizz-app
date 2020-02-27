@@ -16,8 +16,8 @@ This is a simple Quiz app made in **Vue.js**, I plan to use this framework in co
 
 ## Preview
 ___
-![correct](correct.jpg "Correct")
-![incorrect](incorrect.jpg "Incorrect")
+![correct](https://github.com/aduJohn/-Vue.js-basisc-Quizz-app/blob/master/correct.JPG)
+![incorrect](https://github.com/aduJohn/-Vue.js-basisc-Quizz-app/blob/master/incorrect.JPG)
 
 ## Technologies
 ___
